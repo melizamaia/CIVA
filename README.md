@@ -1,5 +1,5 @@
 # Civa
-Telas criadas para o projeto Civa - Carteira Internacional de Saúde.
+Telas criadas para o projeto CIVA - Carteira Internacional de Saúde.
 
 Nesse repositório serão inclusas as telas que participei no processo de criação.
 
